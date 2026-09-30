@@ -5,8 +5,12 @@ function Hero(){
 
 return(
 
-<section className="px-10 py-20">
-
+<section className="
+px-5
+sm:px-10
+py-12
+sm:py-20
+">
 
 <div className="text-center">
 
@@ -16,10 +20,14 @@ WEB & MOBILE DEVELOPER
 </p>
 
 
-<h1 className="text-[80px] md:text-[150px] font-serif leading-none">
-
+<h1 className="
+text-4xl
+sm:text-5xl
+md:text-7xl
+font-serif
+leading-tight
+">
 PORTFOLIO
-
 </h1>
 
 
