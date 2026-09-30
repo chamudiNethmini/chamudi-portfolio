@@ -24,7 +24,7 @@ Sri Lanka Institute of Information Technology (SLIIT)
 
 
 <p className="mt-3">
-2024 - Present
+2023 - Present
 </p>
 
 
